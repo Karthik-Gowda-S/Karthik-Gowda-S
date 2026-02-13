@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik Gowda</h1>
-<h3 align="center">AIML Student | AI & ML Student | 🚀</h3>
+<h3 align="center"> | AI & ML Student | 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence+%26+Machine+Learning;AI+%7C+ML%7C;;Always+Learning&font=Fira+Code&center=true&width=650&height=45&color=58A6FF&vCenter=true&pause=1000" />
