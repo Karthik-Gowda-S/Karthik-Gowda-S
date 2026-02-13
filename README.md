@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KArthik Gowda/h1>
+<h1 align="center">Hi 👋, I'm Karthik Gowda  /h1>
 <h3 align="center">AIML Student | AI & ML Student | 🚀</h3>
 
 <p align="center">
