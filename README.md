@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik Gowda</h1>
-<h3 align="center"> | AI & ML Student | 🚀</h3>
-
+<h3 align="center">AI & ML Student 🚀</h3>
 
 ---
 
@@ -8,7 +7,7 @@
 
 - 🎓 **AIML Undergraduate** with strong fundamentals in ML & Data Science  
 - 🤖 Passionate about **AI, Machine Learning & Deep Learning**  
-- 🧠 Curious about ** Generative AI & Computer Vision**  
+- 🧠 Curious about **Generative AI & Computer Vision**  
 - 🚀 Focused on **real-world projects & problem solving**
 
 ---
@@ -16,8 +15,8 @@
 ## 🧭 Currently Learning & Exploring
 
 - 🔹 Deep Learning (CNNs, RNNs, Transformers)  
-- 🔹 Artificial intellige and Machine learning
- 
+- 🔹 Artificial Intelligence and Machine Learning  
+
 ---
 
 ## 🛠️ Tech Stack
@@ -49,14 +48,13 @@
 - 📊 **Data Analysis Dashboards** using Python & Pandas  
 - ☁️ **Cloud Experiments** – Deploying apps & ML models  
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=__karthik._06&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shashank-shetty08&theme=ambient_gradient&hide_border=false" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=__karthik._06&theme=ambient_gradient&hide_border=false" height="170"/>
 </p>
 
 <p align="center">
@@ -66,6 +64,7 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=__karthik._06&theme=rose&no-frame=false&no-bg=true&margin-w=10"/>
 </p>
@@ -75,10 +74,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a<a href="https://instagram.com/____karthik._06">
-">
+  <a href="https://instagram.com/____karthik._06" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
+
   <a href="mailto:karthikarthik7416@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
@@ -87,7 +86,7 @@
 ---
 
 ## 👀 Profile Views
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=__karthik._06&icon=0&color=0"/>
 </p>
-
