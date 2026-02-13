@@ -55,19 +55,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashank-shetty08&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=__karthik._06&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Shashank-shetty08&theme=ambient_gradient&hide_border=false" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-shetty08&theme=ambient_gradient&hide_border=false&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=__karthik._06&theme=ambient_gradient&hide_border=false&layout=compact" height="160"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashank-shetty08&theme=rose&no-frame=false&no-bg=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=__karthik._06&theme=rose&no-frame=false&no-bg=true&margin-w=10"/>
 </p>
 
 ---
@@ -87,6 +87,6 @@
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shashank-shetty08&icon=0&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=__karthik._06&icon=0&color=0"/>
 </p>
 
