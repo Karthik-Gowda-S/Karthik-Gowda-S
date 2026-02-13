@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Shashank Shetty</h1>
+<h1 align="center">Hi 👋, I'm Shashank Shetty</h1>
 <h3 align="center">AIML Student | AI & ML Enthusiast | 🚀</h3>
 
 <p align="center">
