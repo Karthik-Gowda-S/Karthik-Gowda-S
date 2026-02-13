@@ -8,7 +8,7 @@
 - 🎓 **AIML Undergraduate** with strong fundamentals in ML & Data Science  
 - 🤖 Passionate about **AI, Machine Learning & Deep Learning**  
 - 🧠 Curious about **Generative AI & Computer Vision**  
-- 🚀 Focused on **real-world projects & problem solving**
+- 🚀 Focused on real-world projects & problem solving  
 
 ---
 
@@ -44,9 +44,9 @@
 
 ## 🚀 Featured Projects
 
-- 🤖 **AI/ML Projects** – Predictive models, classification & regression  
-- 📊 **Data Analysis Dashboards** using Python & Pandas  
-- ☁️ **Cloud Experiments** – Deploying apps & ML models  
+- 🤖 AI/ML Projects – Predictive models, classification & regression  
+- 📊 Data Analysis Dashboards using Python & Pandas  
+- ☁️ Cloud Experiments – Deploying apps & ML models  
 
 ---
 
@@ -74,13 +74,17 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/__karthik._06/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="mailto:karthikarthik74168@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <!-- Gmail (Opens in Browser) -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=karthikarthik74168@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
 </p>
 
 ---
