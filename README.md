@@ -75,7 +75,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/__karthi._06">
+  <a href="https://instagram.com/shashank__shetty__.08">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
   <a href="mailto:karthikarthik7416@gmail.com">
